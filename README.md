@@ -1,2 +1,2 @@
 # 22KDL - Introduction of Data Science
-# AQI prediction
+AQI prediction
