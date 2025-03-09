@@ -3,6 +3,9 @@
 AQI Prediction
 ## Description
 Using models to forecast the factors that would affect Hanoi's air quality between 2020 and 2024
+FILE:
+- weather.csv: Data on weather factors of Hanoi city, collected from website https://freemeteo.bg/
+- fin.csv: Hanoi's AQI (air quality) from 2015 to 2024, collected from website https://www.airnow.gov/
 ## Contributing
 <table>
     <tr>
